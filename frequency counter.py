@@ -6,4 +6,4 @@ while n>0:
     n=n//10
 for i in range(0,10):
     if (freq[i]>2):
-        print(f"freq {i} is {freq[i]}" )
+        print(f"freq {i} is {freq[i]}")
